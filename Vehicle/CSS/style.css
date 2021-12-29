@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(230, 243, 239);
+}
+
+header{
+    text-align: left;
+    font-weight: bold;
+    font-size: larger;
+}
+
+b{
+    color: blue;
+}
+
+.smallFont{
+    font-size: small;
+}

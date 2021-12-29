@@ -1,0 +1,22 @@
+h2{
+    text-align: center;
+}
+
+.formula{
+    text-align: center;
+}
+mark{
+    background-color: rgb(226, 146, 146);
+}
+
+.spanLetter{
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#pi{
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}

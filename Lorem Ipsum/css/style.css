@@ -1,0 +1,30 @@
+/* .pre1{
+    color: rgba(red, green, blue, alfa);
+} */
+h2{
+    text-align: center;
+}
+
+.blockquote1{
+    text-align: right;
+}
+.blockquote2{
+    text-align: right;
+}
+
+.mark1{
+    background-color: white;
+    opacity: 0.8;
+}
+.mark2{
+    background-color: white;
+    opacity: 0.6;
+}
+.mark3{
+    background-color: white;
+    opacity: 0.4;
+}
+.mark4{
+    background-color: white;
+    opacity: 0.2;
+}
